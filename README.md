@@ -1,3 +1,4 @@
+- https://www.linkedin.com/in/soumik-sarkar-004/
 - 👋 Hi, I’m @soumiks4
 - 👀 I’m interested in Big Data & ML
 - 🌱 I’m currently learning Python
